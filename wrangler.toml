@@ -1,7 +1,7 @@
 name = "multi-checker-bot"
 main = "src/index.js"
 compatibility_date = "2024-01-01"
+compatibility_flags = ["nodejs_compat"]
 
 [vars]
-BOT_TOKEN = "8886260727:AAF6BeZZwXKm8FJ0MJ5OIwXJY633-LF1-hk"
 ADMIN_ID = "8261522463"
