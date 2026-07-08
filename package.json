@@ -2,13 +2,7 @@
   "name": "multi-checker-bot",
   "version": "1.0.0",
   "type": "module",
-  "scripts": {
-    "deploy": "wrangler deploy"
-  },
   "dependencies": {
     "grammy": "^1.21.0"
-  },
-  "devDependencies": {
-    "wrangler": "^3.0.0"
   }
 }
